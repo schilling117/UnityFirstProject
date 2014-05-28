@@ -1,9 +1,13 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\rotation.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Map.cs">
     <Files>
-      <File FileName="Assets\movement.cs" Line="73" Column="1" />
-      <File FileName="Assets\rotation.cs" Line="10" Column="21" />
+      <File FileName="Assets\Map.cs" Line="64" Column="126" />
+      <File FileName="Assets\movement.cs" Line="1" Column="1" />
+      <File FileName="Assets\rotation.cs" Line="1" Column="1" />
+      <File FileName="Assets\thirdPersonCam.cs" Line="1" Column="1" />
+      <File FileName="Assets\NewMouseRotation.cs" Line="1" Column="1" />
+      <File FileName="Assets\Map.cs" Line="154" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
